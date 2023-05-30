@@ -1,0 +1,1065 @@
+[
+    {
+        "id": 0,
+        "eventOrder": [
+            {
+                "showClass": "SHOW CLASS 1",
+                "class": "CLASS 17",
+                "section": "SECTION A",
+                "pairs": [
+                    {
+                        "riderId": 760,
+                        "riderName": "Josie Spratt",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Rey",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 763,
+                        "riderName": "Anna Wilhelm",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Sierra",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 279,
+                        "riderName": "Brayden Gruben",
+                        "riderSchool": "Missouri State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Henry",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 795,
+                        "riderName": "Morgan DeBuhr",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Sierra",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 754,
+                        "riderName": "Lily Zomparelli",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "Henry",
+                        "horseProvider": "BHC"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 2",
+                "class": "CLASS 13",
+                "section": "SECTION A",
+                "pairs": [
+                    {
+                        "riderId": 840,
+                        "riderName": "Heather Police",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Rico",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 838,
+                        "riderName": "Myah Swanson",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Archie",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 296,
+                        "riderName": "Cheyenne Town",
+                        "riderSchool": "Kansas State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Hooker",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 765,
+                        "riderName": "Taylor Yordy",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Sheldon",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 850,
+                        "riderName": "Carlie Wasmund",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 3",
+                "class": "CLASS 15",
+                "section": "SECTION A",
+                "pairs": [
+                    {
+                        "riderId": 215,
+                        "riderName": "Torino Wick",
+                        "riderSchool": "Southern Illinois University Carbondale",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Super Pete",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 835,
+                        "riderName": "Rachel Burkard",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Sierra",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 411,
+                        "riderName": "Cambrie Gani",
+                        "riderSchool": "Missouri State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Doughnut",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 797,
+                        "riderName": "Jessica Theobald",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Dustin",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 855,
+                        "riderName": "Autumn Cary",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "Rey",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 287,
+                        "riderName": "Samantha Lind",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "Dustin",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 214,
+                        "riderName": "] ",
+                        "riderSchool": "Southern Illinois University Carbondale",
+                        "riderPlacing": null,
+                        "order": 7,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 4",
+                "class": "CLASS 13",
+                "section": "SECTION B",
+                "pairs": [
+                    {
+                        "riderId": 796,
+                        "riderName": "Lauren McFadden",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Archie",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 788,
+                        "riderName": "Adrien Seabloom",
+                        "riderSchool": "Truman State University",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Rico",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 846,
+                        "riderName": "Samantha Gudeman",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Sheldon",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 771,
+                        "riderName": "Grace Barman",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Hooker",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 240,
+                        "riderName": "Zoe Goldberg",
+                        "riderSchool": "Washington University in St. Louis",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 5",
+                "class": "CLASS 15",
+                "section": "SECTION B",
+                "pairs": [
+                    {
+                        "riderId": 641,
+                        "riderName": "Ashley Carns",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Doughnut",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 849,
+                        "riderName": "Heather Marz",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Rey",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 781,
+                        "riderName": "Lauren Johnson",
+                        "riderSchool": "Missouri State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Dustin",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 897,
+                        "riderName": "McKell Norris",
+                        "riderSchool": "Northwest Missouri State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Rey",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 266,
+                        "riderName": "Kia Davis",
+                        "riderSchool": "Southern Illinois University Carbondale",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "Henry",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 422,
+                        "riderName": "Jordan Rydl",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "Super Pete",
+                        "horseProvider": "UWP"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 6",
+                "class": "CLASS 16",
+                "section": "SECTION A",
+                "pairs": [
+                    {
+                        "riderId": 754,
+                        "riderName": "Lily Zomparelli",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Wayne",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 279,
+                        "riderName": "Brayden Gruben",
+                        "riderSchool": "Missouri State University",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Fred",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 760,
+                        "riderName": "Josie Spratt",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Archie",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 795,
+                        "riderName": "Morgan DeBuhr",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Hooker",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 845,
+                        "riderName": "Sara Blume",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "Archie",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 763,
+                        "riderName": "Anna Wilhelm",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "Wayne",
+                        "horseProvider": "BHC"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 7",
+                "class": "CLASS 13",
+                "section": "SECTION C",
+                "pairs": [
+                    {
+                        "riderId": 839,
+                        "riderName": "Aliza Jacobs",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Sheldon",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 799,
+                        "riderName": "Kathryn Pietka",
+                        "riderSchool": "Truman State University",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Hooker",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 784,
+                        "riderName": "Korryn Baraks",
+                        "riderSchool": "Augustana College",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Rico",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 418,
+                        "riderName": "Natalie Rolling",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Archie",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 408,
+                        "riderName": "Arielle Smith",
+                        "riderSchool": "Washington University in St. Louis",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 8",
+                "class": "CLASS 14",
+                "section": "SECTION A",
+                "pairs": [
+                    {
+                        "riderId": 849,
+                        "riderName": "Heather Marz",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Archie",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 641,
+                        "riderName": "Ashley Carns",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Hooker",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 797,
+                        "riderName": "Jessica Theobald",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Archie",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 411,
+                        "riderName": "Cambrie Gani",
+                        "riderSchool": "Missouri State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Fred",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 266,
+                        "riderName": "Kia Davis",
+                        "riderSchool": "Southern Illinois University Carbondale",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "Wayne",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 409,
+                        "riderName": "Payton Koopman",
+                        "riderSchool": "Truman State University",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "Rico",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 287,
+                        "riderName": "Samantha Lind",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 7,
+                        "horseName": "Wayne",
+                        "horseProvider": "BHC"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 9",
+                "class": "CLASS 12B",
+                "section": "SECTION A",
+                "pairs": [
+                    {
+                        "riderId": 200,
+                        "riderName": "Anna Cooper",
+                        "riderSchool": "Truman State University",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Henry",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 844,
+                        "riderName": "Tyler Jones",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Super Pete",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 766,
+                        "riderName": "Sarah Korthals",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Doughnut",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 864,
+                        "riderName": "Kammi Bishop",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Sierra",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 761,
+                        "riderName": "Brooke Kiefer",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 294,
+                        "riderName": "Kylie Novak",
+                        "riderSchool": "Illinois State University",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 10",
+                "class": "CLASS 14",
+                "section": "SECTION B",
+                "pairs": [
+                    {
+                        "riderId": 215,
+                        "riderName": "Torino Wick",
+                        "riderSchool": "Southern Illinois University Carbondale",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Archie",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 835,
+                        "riderName": "Rachel Burkard",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Wayne",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 897,
+                        "riderName": "McKell Norris",
+                        "riderSchool": "Northwest Missouri State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Hooker",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 214,
+                        "riderName": "] ",
+                        "riderSchool": "Southern Illinois University Carbondale",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Wayne",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 422,
+                        "riderName": "Jordan Rydl",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "Fred",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 865,
+                        "riderName": "Ella Carlson",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "Rico",
+                        "horseProvider": "BHC"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 11",
+                "class": "CLASS 11",
+                "section": "SECTION A",
+                "pairs": [
+                    {
+                        "riderId": 787,
+                        "riderName": "Blake Curry",
+                        "riderSchool": "Truman State University",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Sheldon",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 288,
+                        "riderName": "Mya Kirgan",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Fred",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 836,
+                        "riderName": "Kimberly Donsel",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Rey",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 412,
+                        "riderName": "Mikayla Bridges",
+                        "riderSchool": "Washington University in St. Louis",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 405,
+                        "riderName": "Sydney Taylor",
+                        "riderSchool": "Illinois State University",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 854,
+                        "riderName": "Brooke Lee",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 12",
+                "class": "CLASS 12B",
+                "section": "SECTION B",
+                "pairs": [
+                    {
+                        "riderId": 260,
+                        "riderName": "Lauren Kastner",
+                        "riderSchool": "Kansas State University",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Super Pete",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 759,
+                        "riderName": "Haley Bucher",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Henry",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 794,
+                        "riderName": "Emily Joenks",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Dustin",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 791,
+                        "riderName": "Sydnie Andell",
+                        "riderSchool": "Truman State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Doughnut",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 413,
+                        "riderName": "Heidi Reed",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 776,
+                        "riderName": "Mary Alhorn",
+                        "riderSchool": "Missouri State University",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 13",
+                "class": "CLASS 11",
+                "section": "SECTION B",
+                "pairs": [
+                    {
+                        "riderId": 764,
+                        "riderName": "Aleah Wykert",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Fred",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 798,
+                        "riderName": "Averi Sievert",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Hooker",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 201,
+                        "riderName": "Cassandra Seuferling",
+                        "riderSchool": "Truman State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Sheldon",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 278,
+                        "riderName": "Danielle Hagen",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 533,
+                        "riderName": "Joseph Wilkin",
+                        "riderSchool": "Southern Illinois University Carbondale",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 359,
+                        "riderName": "Courtney Longenecker",
+                        "riderSchool": "Western Illinois University",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 14",
+                "class": "CLASS 12A",
+                "section": "SECTION A",
+                "pairs": [
+                    {
+                        "riderId": 785,
+                        "riderName": "Carina Martinez",
+                        "riderSchool": "Augustana College",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Sierra",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 863,
+                        "riderName": "Hailey Gandrup",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Doughnut",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 783,
+                        "riderName": "Isaac Stevenson",
+                        "riderSchool": "Western Illinois University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Hooker",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 414,
+                        "riderName": "Chloe Knieling",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Rey",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 780,
+                        "riderName": "Alexia Bridges",
+                        "riderSchool": "Missouri State University",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "Super Pete",
+                        "horseProvider": "UWP"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 15",
+                "class": "CLASS 11",
+                "section": "SECTION C",
+                "pairs": [
+                    {
+                        "riderId": 416,
+                        "riderName": "Lindsey Tassell",
+                        "riderSchool": "Western Illinois University",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Sheldon",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 857,
+                        "riderName": "Kayla Jiras",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Fred",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 415,
+                        "riderName": "Zoie Havick",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 403,
+                        "riderName": "Bailey Groves",
+                        "riderSchool": "Missouri State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 843,
+                        "riderName": "Rachel Stokdyk",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 16",
+                "class": "CLASS 12B",
+                "section": "SECTION C",
+                "pairs": [
+                    {
+                        "riderId": 842,
+                        "riderName": "Madeline Besch",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Sierra",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 241,
+                        "riderName": "Lorey Golden",
+                        "riderSchool": "Washington University in St. Louis",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Doughnut",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 402,
+                        "riderName": "Jenna Fiscus",
+                        "riderSchool": "Kansas State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "Super Pete",
+                        "horseProvider": "UWP"
+                    },
+                    {
+                        "riderId": 800,
+                        "riderName": "Tianna Charlson",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "Henry",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 786,
+                        "riderName": "Kaitlyn Crawford",
+                        "riderSchool": "Truman State University",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 767,
+                        "riderName": "Makenna Pidgeon",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 17",
+                "class": "CLASS 11",
+                "section": "SECTION D",
+                "pairs": [
+                    {
+                        "riderId": 757,
+                        "riderName": "Hope Lock",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Sheldon",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 295,
+                        "riderName": "Madeline Confiliano",
+                        "riderSchool": "Illinois State University",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Fred",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 277,
+                        "riderName": "Emily Sheen",
+                        "riderSchool": "University of Wisconsin-Platteville",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 417,
+                        "riderName": "Aishah Al-Mohamedi",
+                        "riderSchool": "Washington University in St. Louis",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 852,
+                        "riderName": "Amber Allen",
+                        "riderSchool": "Western Illinois University",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            },
+            {
+                "showClass": "SHOW CLASS 18",
+                "class": "CLASS 12B",
+                "section": "SECTION D",
+                "pairs": [
+                    {
+                        "riderId": 242,
+                        "riderName": "Annelise Molavi",
+                        "riderSchool": "Washington University in St. Louis",
+                        "riderPlacing": null,
+                        "order": 1,
+                        "horseName": "Dustin",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 755,
+                        "riderName": "Kelsey Doty",
+                        "riderSchool": "Black Hawk College",
+                        "riderPlacing": null,
+                        "order": 2,
+                        "horseName": "Rico",
+                        "horseProvider": "BHC"
+                    },
+                    {
+                        "riderId": 792,
+                        "riderName": "Kyleigh Meyeres",
+                        "riderSchool": "Iowa State University",
+                        "riderPlacing": null,
+                        "order": 3,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 202,
+                        "riderName": "Olivia Noack",
+                        "riderSchool": "Truman State University",
+                        "riderPlacing": null,
+                        "order": 4,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 867,
+                        "riderName": "Emma Lowe",
+                        "riderSchool": "Western Illinois University",
+                        "riderPlacing": null,
+                        "order": 5,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    },
+                    {
+                        "riderId": 293,
+                        "riderName": "Alison Weiser",
+                        "riderSchool": "Illinois State University",
+                        "riderPlacing": null,
+                        "order": 6,
+                        "horseName": "N/A",
+                        "horseProvider": "N/A"
+                    }
+                ]
+            }
+        ],
+        "location": "Test Event",
+        "eventTime": "1999-01-01T00:00:00Z",
+        "zone": 0,
+        "ridingPattern": "Test Url",
+        "description": "Test Description"
+    }
+]

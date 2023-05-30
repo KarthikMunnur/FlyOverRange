@@ -1,0 +1,10 @@
+@media (max-width: 991px) {
+  .header-right {
+    display: block !important;
+    padding: 12px 0 14px 0 !important;
+  }
+
+  footer {
+    display: none !important;
+  }
+}

@@ -1,0 +1,21 @@
+.d-flex.align-items-end.mt-3 img {
+    max-width: 45px;
+    border: none;
+}
+
+.d-flex.align-items-end.mt-3 button {
+    border: none !important;
+    margin-left: 10px;
+}
+
+.main-wrapper img{
+    max-width: 320px;
+}
+
+.main-wrapper{
+    padding: 25px;
+}
+
+test{
+    display: none !important;
+}
